@@ -1,0 +1,43 @@
+PRIMARY COLORS:
+
+#4CAF50 - Green (Success/Valid actions)
+#f44336 - Red (Danger/End game)
+#2196F3 - Blue (Information/Helper)
+#FF5722 - Orange (Clear/Reset)
+#607D8B - Blue-gray (Navigation/Back)
+
+
+
+HOVER/ACTIVE STATES:
+
+#45a049 - Dark green (hover for green buttons)
+#d32f2f - Dark red (hover for red buttons)
+#1976D2 - Dark blue (hover for blue buttons)
+#E64A19 - Dark orange (hover for orange buttons)
+#455A64 - Dark blue-gray (hover for navigation)
+
+
+
+TILE STATES:
+
+#E8F5E9 - Light green (tile hover)
+#2E7D32 - Dark green (selected tile border)
+#666 - Dark gray (default tile border)
+
+
+
+NEUTRAL/BACKGROUND:
+
+#f5f5f5 - Light gray (main background)
+#ffffff - White (tiles, displays)
+#333 - Dark gray (text color)
+#ddd - Light gray (borders)
+#9E9E9E - Medium gray (disabled state)
+
+
+
+SPECIAL STATES:
+
+#0D47A1 - Very dark blue (pressed state)
+#388E3C - Medium-dark green (pressed state)
+#616161 - Dark gray (AI helper off border)
